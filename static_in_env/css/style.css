@@ -1,2 +1,14 @@
 .card-comments img {
-  width: 4rem; }
+  width: 4rem;
+}
+
+
+.icon-tile {
+  width: calc(100%/3);
+  text-align: center;
+  width: calc(100%/9);
+  margin-bottom: .5rem;
+  border-radius: 5px;
+  height: 100%;
+  position: relative;
+}

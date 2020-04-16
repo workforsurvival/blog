@@ -1,0 +1,87 @@
+/* ************************************** *
+ * NotoSansCJKkr-hinted
+ * ************************************** */
+@font-face {
+    font-family: 'NotoSansKR';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../font/noto/NotoSansCJKkr-Regular.eot);
+    src: local("?"),
+        url(../font/noto/NotoSansCJKkr-Regular.woff) format('woff'),
+        url(../font/noto/NotoSansCJKkr-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'NotoSansKR';
+    font-style: normal;
+    font-weight: 200;
+    src: url(../font/noto/NotoSansCJKkr-DemiLight.eot);
+    src: local("?"),
+        url(../font/noto/NotoSansCJKkr-DemiLight.woff) format('woff'),
+        url(../font/noto/NotoSansCJKkr-DemiLight.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'NotoSansKR';
+    font-style: normal;
+    font-weight: 300;
+    src: url(../font/noto/NotoSansCJKkr-Light.eot);
+    src: local("?"),
+        url(../font/noto/NotoSansCJKkr-Light.woff) format('woff'),
+        url(../font/noto/NotoSansCJKkr-Light.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'NotoSansKR';
+    font-style: normal;
+    font-weight: 500;
+    src: url(../font/noto/NotoSansCJKkr-Medium.eot);
+    src: local("?"),
+        url(../font/noto/NotoSansCJKkr-Medium.woff) format('woff'),
+        url(../font/noto/NotoSansCJKkr-Medium.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'NotoSansKR';
+    font-style: normal;
+    font-weight: 600;
+    src: url(../font/noto/NotoSansCJKkr-Bold.eot);
+    src: local("?"),
+        url(../font/noto/NotoSansCJKkr-Bold.woff) format('woff'),
+        url(../font/noto/NotoSansCJKkr-Bold.ttf) format('truetype');
+}
+
+
+
+/* ************************************** *
+ * proxima
+ * ************************************** */
+@font-face {
+    font-family: 'proxima';
+    font-style: normal;
+    font-weight: 400;
+    /* src: url(../font/proxima/Proxima-Nova-Regular.eot); */
+    src: local("?"),
+        url(../font/proxima/Proxima-Nova-Regular.woff) format('woff'),
+        url(../font/proxima/Proxima-Nova-Regular.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'proxima';
+    font-style: normal;
+    font-weight: 500;
+    /* src: url(../font/proxima/Proxima-Nova-Semibold.eot); */
+    src: local("?"),
+        url(../font/proxima/Proxima-Nova-Semibold.woff) format('woff'),
+        url(../font/proxima/Proxima-Nova-Semibold.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'proxima';
+    font-style: normal;
+    font-weight: 600;
+    /* src: url(../font/proxima/Proxima-Nova-Bold.eot); */
+    src: local("?"),
+        url(../font/proxima/Proxima-Nova-Bold.woff) format('woff'),
+        url(../font/proxima/Proxima-Nova-Bold.otf) format('opentype');
+}

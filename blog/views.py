@@ -11,6 +11,13 @@ def home_page(request):
     return render(request, 'home-page.html', context)
 
 
+def contact_page(request):
+    context = {
+        'items': Item.objects.all()
+    }
+    return render(request, 'contact.html', context)
+
+
 def category_page(request):
     context = {
         'items': Item.objects.all()
